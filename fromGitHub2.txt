@@ -1,1 +1,1 @@
-adding the second file on Git hub.
+adding second  file directly on Git hub.
